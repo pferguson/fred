@@ -27,12 +27,12 @@
 		<repository>
 			<id>localhost_nexus_releases</id>
 			<name>Localhost Nexus Releases</name>
-			<url>http://localhost:8091/nexus/content/repositories/releases/</url>
+			<url>http://localhost:8081/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>localhost_nexus_snapshots</id>
 			<name>Localhost Nexus Snapshots</name>
-			<url>http://localhost:8091/nexus/content/repositories/snapshots/</url>
+			<url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
