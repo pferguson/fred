@@ -14,12 +14,14 @@
 		Maven and JAVA_HOME=${env.JAVA_HOME}
 	</description>
 
+	<!--  
 	<scm>
 		<developerConnection>
 			scm:git:git@github.com:pferguson/fred.git
 		</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
+	-->
 
 	<distributionManagement>
 		<repository>
